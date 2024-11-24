@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Yaroslav, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Moscow, Russia</b>
+<p>Welcome to my page! </br> I'm Yaroslav, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Kazan, Russia</b>
 
 <h3>Things I code with</h3>
 
@@ -13,7 +13,6 @@
 ---
 
 ![Ярослав Токмаков's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sstokmakov&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
 ![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=sstokmakov&layout=compact&langs_count=10&theme=radical)
 
 ## 📫 Как со мной связаться
