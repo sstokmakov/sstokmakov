@@ -9,6 +9,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit)
+![Mockito](https://img.shields.io/badge/-Mockito-5F7B8D?style=flat&logo=mockito)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ---
 
