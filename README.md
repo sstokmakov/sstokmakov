@@ -27,29 +27,12 @@
 
 ---
 
-## 🔧 Мои проекты
-
-### [Book Keeper](https://github.com/sstokmakov/book-keeper)
-Приложение для управления коллекцией книг. Позволяет добавлять, обновлять и удалять книги, а также просматривать список всех книг.
-
-### [Eco Detector](https://github.com/sstokmakov/eco-detector)
-Приложение для мониторинга экологических данных, которое анализирует и отслеживает превышение норм загрязняющих веществ.
-
----
-
-## 📈 Мои достижения
-
 ![Ярослав Токмаков's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sstokmakov&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=sstokmakov&layout=compact&langs_count=10&theme=radical)
-
----
 
 ## 📫 Как со мной связаться
 
 - 📧 Электронная почта: [yaroslav.tokmakov@gmail.com](mailto:yaroslav.tokmakov@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yaroslav-tokmakov/)
 
----
-
-> "Программирование — это не просто работа, это искусство." — Ярослав Токмаков
