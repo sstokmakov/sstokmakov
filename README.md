@@ -21,7 +21,6 @@
 
 ### Where to find me</h3>
 
-- GitHub: [github.com/sstokmakov](https://github.com/sstokmakov)
 - LeetCode: [leetcode.com/sstokmakov](https://leetcode.com/sstokmakov)
 - Telegram: [@sstokmakov](https://t.me/sstokmakov)
 - Email: [ytokmakoff@gmail.com](mailto:ytokmakoff@gmail.com)
