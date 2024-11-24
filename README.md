@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstokmakov&layout=compact&langs_count=10&theme=radical)
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven)
