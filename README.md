@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Yaroslav, Backend developer from <img src="![image](https://github.com/user-attachments/assets/2e4e518f-7afa-40f9-986b-badbcfa06502)
+<p>Welcome to my page! </br> I'm Yaroslav, Backend developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png" width="20" style="border-radius: 50%;"/> <b>Moscow, Russia</b>
 " width="20"/> <b>Moscow, Russia</b>
 
 <h3>Things I code with</h3>
