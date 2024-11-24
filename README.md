@@ -4,15 +4,15 @@
 
 ### Things I code with</h3>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit)
-![Mockito](https://img.shields.io/badge/-Mockito-5F7B8D?style=flat&logo=mockito)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+[<img align="left" alt="Java" width="26px" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java" style="padding-right:10px;" />]
+[<img align="left" alt="Spring" width="26px" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring" style="padding-right:10px;" />]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql" style="padding-right:10px;" />]
+[<img align="left" alt="Docker" width="26px" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" style="padding-right:10px;" />]
+[<img align="left" alt="Maven" width="26px" src="https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven" style="padding-right:10px;" />]
+[<img align="left" alt="Hibernate" width="26px" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate" style="padding-right:10px;" />]
+[<img align="left" alt="JUnit" width="26px" src="https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5" style="padding-right:10px;" />]
+[<img align="left" alt="Mockito" width="26px" src="https://img.shields.io/badge/-Mockito-5038B1?style=flat&logo=mockito" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" style="padding-right:10px;" />]
 
 ---
 
