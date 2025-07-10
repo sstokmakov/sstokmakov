@@ -23,5 +23,5 @@
 ### Where to find me</h3>
 
 - LeetCode: [leetcode.com/sstokmakov](https://leetcode.com/sstokmakov)
-- Telegram: [@sstokmakov](https://t.me/slavatokmakov)
+- Telegram: [@slavatokmakov](https://t.me/slavatokmakov)
 - Email: [ytokmakoff@gmail.com](mailto:ytokmakoff@gmail.com)
