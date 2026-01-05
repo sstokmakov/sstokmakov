@@ -3,7 +3,7 @@ I'm Java backend developer from Moscow, Russia.
 
 My stack:
 - Java, Kotlin
-- Spring, Spring Boot
+- SpringFramework (Spring Core, Spring MVC, Spring Boot, Spring Security)
 - JDBC
 - PostgreSQL
 - Kafka
